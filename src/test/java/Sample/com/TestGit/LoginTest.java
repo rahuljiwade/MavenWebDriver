@@ -32,6 +32,7 @@ public class LoginTest {
 		driver.findElement(By.xpath("//*[@id='pass']")).sendKeys("I@mB3st!");
 		
 		driver.findElement(By.xpath("//input[@type='submit']")).click();
+		System.out.println("Login To Facebook Sucessfully");
 	}
 		
 		@AfterTest
