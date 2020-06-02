@@ -11,6 +11,9 @@ public class App
         System.out.println( "Hello World!" );
     }
     
+    /*
+     * This is the test method
+     */
     public void test(){
         System.out.println( "Hello World!" );
     }
