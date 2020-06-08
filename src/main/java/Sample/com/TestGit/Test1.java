@@ -36,6 +36,7 @@ public class Test1 {
 	public void test1(){
 		
 		System.out.println("This is test1 method");
+		System.out.println("This is test1 method 2");
 	}
 
 }
