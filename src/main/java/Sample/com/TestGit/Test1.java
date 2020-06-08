@@ -31,5 +31,11 @@ public class Test1 {
 		Arrays.asList(s.split("/")).stream().forEach(System.out::println);
 		
 	}
+	
+	@Test
+	public void test1(){
+		
+		System.out.println("This is test1 method");
+	}
 
 }
