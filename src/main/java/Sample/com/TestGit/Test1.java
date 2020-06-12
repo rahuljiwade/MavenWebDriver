@@ -10,9 +10,6 @@ import org.testng.annotations.Test;
  *           2020
  * 
  */
-/*
- * @Author name= Rahul Jiwade
- */
 
 public class Test1 {
 	
